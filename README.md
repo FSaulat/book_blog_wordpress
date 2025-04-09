@@ -12,4 +12,4 @@ Live Site: https://booksread6.wordpress.com/
 - Focus on clean, readable UI and personal voice
 
 ## ✨ Preview
-![Homepage Screenshot](![image](https://github.com/user-attachments/assets/87b9e8e4-c29c-4974-9072-16d0744d24fc))
+https://github.com/user-attachments/assets/87b9e8e4-c29c-4974-9072-16d0744d24fc
